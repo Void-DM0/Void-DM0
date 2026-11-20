@@ -1,4 +1,3 @@
-::: {align="center"}
 # `VOID-DM0`
 
 ### Software Engineering Student · Aspiring Developer
@@ -58,10 +57,3 @@ details, and instructions for running it.
 -   GitHub: [@Void-DM0](https://github.com/Void-DM0)
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-**`BUILD · LEARN · ITERATE`**
-
-`<sub>`{=html}Early in the journey. Focused on steady
-progress.`</sub>`{=html}
-:::
